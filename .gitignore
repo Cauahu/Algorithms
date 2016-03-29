@@ -1,0 +1,4 @@
+#ignore some directory
+bin
+obj
+test
