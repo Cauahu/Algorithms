@@ -30,7 +30,7 @@ void solvesecend()//·½·¨2
             cout << "A:" << i/9+1 << ",B: " << i%9+1 << endl;
     }
 }
-
+¡¤
 int main()
 {
     for(LSET(b,1);LGET(b)<=GRIDW*GRIDW;LSET(b,(LGET(b)+1)))
