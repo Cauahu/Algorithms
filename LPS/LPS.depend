@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1460640328 source:g:\c++\algorithms\lps\main.cpp
+	<iostream>
+	<string>
+	<string.h>
+
