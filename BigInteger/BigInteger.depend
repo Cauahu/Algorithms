@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1470383439 source:d:\c++\stl\biginteger\main.cpp
+	<iostream>
+	"BigInter.h"
+
+1470383417 source:d:\c++\stl\biginteger\biginteger.cpp
+	<iostream>
+	<cstring>
+	<algorithm>
+	"BigInter.h"
+
+1470382296 d:\c++\stl\biginteger\biginter.h
+
+1470405708 source:c:\users\huzhuang\desktop\ºú×³\biginteger\biginteger.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<algorithm>
+	"BigInter.h"
+
+1470382298 c:\users\huzhuang\desktop\ºú×³\biginteger\biginter.h
+
+1470400456 source:c:\users\huzhuang\desktop\ºú×³\biginteger\main.cpp
+	<iostream>
+	"BigInter.h"
+
