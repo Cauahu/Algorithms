@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1470043859 source:f:\c++\algorithms\ceshi\main.cpp
+	<iostream>
+	<stdio.h>
+	<algorithm>
+
+1470137796 source:f:\c++\algorithms\ceshi\test2.cpp
+	<iostream>
+	<algorithm>
+
+1470138174 source:f:\c++\algorithms\ceshi\wangyi1.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
+1470134528 source:f:\c++\algorithms\ceshi\wangyi2.cpp
+	<iostream>
+	<algorithm>
+
