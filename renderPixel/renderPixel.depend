@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1470891412 source:d:\c++\algorithms\renderpixel\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
