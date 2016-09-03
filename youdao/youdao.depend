@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1471435234 source:f:\c++\algorithms\youdao\main.cpp
+	<iostream>
+	<queue>
+	<deque>
+
